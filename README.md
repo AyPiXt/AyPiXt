@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lua and c#
 - 💞️ i onw a community projekt for roleplay and try my best on it
 - 📫 How to reach me AyPi_Xt#5365
+- you can also support me here https://www.buymeacoffee.com/aypi
 
 <!---
 AyPiXt/AyPiXt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
