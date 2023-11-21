@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AyPiXt
-- 👀 I’m from germany and 28 years old learning atm LUA and some nother stuff at least i love bear.
-- 🌱 I’m currently learning lua and c#
+- 👀 I’m from germany and 29 years old learning atm LUA and some nother stuff at least i love bear.
 - 📫 How to reach me AyPi_Xt#5365
 
 <!---
